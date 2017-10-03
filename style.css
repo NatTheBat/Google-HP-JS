@@ -1,0 +1,96 @@
+.logo
+{
+	width: 300px;
+	height: 100px;
+	background-size: 272px 92px;
+	background-image: url("images/logo.png");
+	background-repeat: no-repeat;
+	/*background-color: blue;*/
+	/*margin: 200px 550px;*/
+	  margin: 15% 40%;
+
+
+}
+
+
+.france
+{
+	 position:relative;
+	 top: 80px;
+	 left: 220px;
+	 width: 100px;
+	height: 30px;
+	font-family: roboto-regular,arial,sans-serif;
+	font-size: 16px;
+	color: #4285f4;
+
+}
+
+.form
+{
+
+	 	width: 500px;
+		height: 100px;
+	 position:relative;
+	 top: 90px;
+	 left: -160px;
+}
+
+input
+{
+	width: 600px;	
+	height: 40px;
+	border: 1px #D1D1D1 solid;
+	padding-left: 10px;
+	box-shadow: 1px 1px 2px 1px #D1D1D1;
+
+
+}
+
+input:hover
+{
+	box-shadow: 1px 2px 5px 2px #D1D1D1;
+}
+
+
+.champ
+{
+
+}
+
+.boutons
+{
+
+	padding-top: 20px;
+	height: 36px;
+	line-height: 27px;
+	margin-left: 150px;
+}
+
+.bouton
+{
+
+	width: 150px;
+	height: 30px;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	color: #757575;
+	cursor: default;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 11px 4px;
+	min-width: 54px;
+	padding: 0 16px;
+	text-align: center;
+}
+
+.bouton:hover
+{
+
+	border: 1px solid #c6c6c6;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	color: #222;
+}
+
