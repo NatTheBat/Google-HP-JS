@@ -11,6 +11,9 @@ body {
   position: relative;
 }
 
+
+
+
 .liens-top {
 
     margin: 0;
@@ -64,7 +67,12 @@ li {
 	padding: 5px 12px ;
 }
 
+button {
+	width: 500px;
+	height: 70px;
+	margin: 10% 30%;
 
+}
 
 .logo
 {
